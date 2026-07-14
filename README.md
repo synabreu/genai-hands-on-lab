@@ -1,6 +1,9 @@
 # Generative AI Hands-on Lab
 
-생성형 AI와 GPU 기반 딥러닝 시스템을 실습 중심으로 학습하기 위한 한국어 Jupyter Notebook 모음이다. LLM 배포와 추론 서빙부터 양자화, 재현 가능한 학습, GPU 프로파일링, 성능 최적화, 모델 평가까지 운영 환경에서 필요한 핵심 주제를 단계적으로 다룬다.
+생성형 AI와 GPU 기반 딥러닝 시스템을 실습 중심으로 학습하기 위한 한국어 Jupyter Notebook 모음이다. LLM 배포와 추론 서빙부터 양자화, 재현 가능한 학습, GPU 프로파일링, 성능 최적화, 모델 평가까지 운영 환경에서 필요한 핵심 주제를 단계적으로 다룬다. 
+
+Tip: If you're English, read [this file!](README-ENG.md)
+
 
 ## 학습 경로
 
