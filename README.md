@@ -122,3 +122,7 @@ jupyter lab
 ## 참고
 
 이 저장소의 Notebook은 생성형 AI 및 GPU 시스템 학습을 위한 교육용 자료다. 실행 결과는 GPU 세대, CUDA·PyTorch 버전, 드라이버, 모델 캐시 상태와 동시 실행 프로세스에 따라 달라질 수 있다.
+
+## License
+
+이 프로젝트는 **Apache License 2.0**에 따라 배포된다. 자세한 내용은 저장소의 `LICENSE` 파일을 참고한다.
